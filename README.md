@@ -11,10 +11,12 @@ A note-taking application that can be used to create, save, and delete notes. Th
     <img src="https://img.shields.io/badge/-node.js-orange" />
     <img src="https://img.shields.io/badge/-express.js-red" />
     <img src="https://img.shields.io/badge/-Inquirer.js-brightgreen" />
+    <img src="https://img.shields.io/badge/-heruko-green" />
 </p>
 
 ## Table-of-Contents
 * [Description](#description)
+* [Submission](#User-Stor)
 * [User Story](#User-Stor)
 * [Acceptance Criteria](#Acceptance-Criteria)
 * [Mock-Up](#Mock-Up)
@@ -23,6 +25,11 @@ A note-taking application that can be used to create, save, and delete notes. Th
 * [Contributing](#contributing)
 * [FAQs](#faqs)
   
+## 🚀 [Submission](#table-of-contents)
+
+Deployed app: https://note-taker-webapp.herokuapp.com/notes
+<br>
+Github Page: https://github.com/VimukthiGunasekara/note-taker
 
 ## 👤 [User Story](#table-of-contents)
 
