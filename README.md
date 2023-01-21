@@ -53,7 +53,8 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## 📺 [Mock-Up](#table-of-contents)
 
-![Image](./assets/images/)
+![Image](./assets/images/home-page.png)
+![Image](./assets/images/note-page.png)
 
 ## ⚙️ [Installation](#table-of-contents)
 Use your terminal to clone or download or copy the zip file to a directory of your choice. Then open the file in VS Code or whatever editor you use. In VS Code, open the terminal and navigate to Note Taker in the root directory. Now you can run the application!
